@@ -4,9 +4,9 @@
 
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sunshine-fane&show_icons=true&include_all_commits=true)](https://github.com/sunshine-fan/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sunshine-fane&show_icons=true&include_all_commits=true)](https://github.com/sunshine-fan/maxfo-game)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshine-fan&repo=YourRepositoryName)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshine-fan&repo=maxfo-game)
 
 Languages and Tools:
 
