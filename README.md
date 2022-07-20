@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunshine-fan&langs_count=8)](https://github.com/sunshine-fan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/sunshine-fan/hy-react-web-music)
 
 
 
