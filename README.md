@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on WEB前端
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on lose weight
-- 
-████ 近期学习
+
 ```text
 JavaScript     █▒░░░▒░░░▒░░░▒░░░▒░░▒▒5%
 TypeScript     ████▒░░░▒░░░▒░░░▒░░░▒░20%
