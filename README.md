@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshine-fan&repo=maxfo-game)](https://github.com/sunshine-fan/maxfo-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshine-fan&repo=hy-react-web-music)](https://github.com/sunshine-fan/hy-react-web-music)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshine-fan&repo=maxfo-game)](https://github.com/sunshine-fan/maxfo-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshine-fan&repo=maxfo-game)](https://github.com/sunshine-fan/maxfo-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshine-fan&repo=Reusable-components)](https://github.com/sunshine-fan/Reusable-components)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunshine-fan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
