@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on WEB前端
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on lose weight
+- 🔭 大三在校生一枚
+- 🌱 主攻方向为：WEB前端，目前正在学习React技术栈
+- 👯 芜湖~~
 
 ```text
 Vue3           40%
